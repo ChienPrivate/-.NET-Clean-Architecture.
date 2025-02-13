@@ -1,5 +1,19 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\images\accessDenied.jpg
+wwwroot\images\notfound.jpg
+wwwroot\images\orderConfirmed.jpg
+wwwroot\images\placeholder.png
+wwwroot\images\resort.png
+wwwroot\images\Room Images\1.jpg
+wwwroot\images\Room Images\2.jpg
+wwwroot\images\Room Images\3.jpg
+wwwroot\images\Room Images\4.jpg
+wwwroot\images\Room Images\5.jpg
+wwwroot\images\Room Images\6.jpg
+wwwroot\images\Room Images\7.jpg
+wwwroot\images\slide1.jpg
+wwwroot\images\slide2.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
