@@ -49,29 +49,41 @@ body {
 }
 
 
-.spinner-border {
-    width: 2rem;
-    /* Tăng kích thước spinner */
-    height: 2rem;
-    margin-left: 10px;
-    /* Khoảng cách giữa spinner và chữ */
+/*style for spinner dot*/
+.dots {
+    width: 13.4px;
+    height: 13.4px;
+    border-radius: 50%;
+    background: #47b3ff;
+    color: #47b3ff;
+    box-shadow: 0 0 0 3.4px;
+    position: relative;
+    animation: dots-39rdyvmd 2s infinite linear;
 }
 
-/* Responsive tăng kích thước spinner */
-@media (min-width: 768px) {
-    /* Với màn hình >= 768px */
-    .spinner-border {
-        width: 3rem;
-        /* Tăng kích thước cho màn hình lớn hơn */
-        height: 3rem;
+    .dots:before,
+    .dots:after {
+        content: "";
+        position: absolute;
+        border-radius: 50%;
+        inset: 0;
+        background: #47b3ff;
+        transform: rotate(0deg) translate(20.2px);
+        animation: dots-c774cgmd 1s infinite;
+    }
+
+    .dots:after {
+        animation-delay: -0.5s;
+    }
+
+@keyframes dots-39rdyvmd {
+    100% {
+        transform: rotate(1turn);
     }
 }
 
-@media (min-width: 1200px) {
-    /* Với màn hình >= 1200px */
-    .spinner-border {
-        width: 4rem;
-        /* Tăng thêm kích thước cho màn hình rất lớn */
-        height: 4rem;
+@keyframes dots-c774cgmd {
+    100% {
+        transform: rotate(1turn) translate(22.4px);
     }
 }
