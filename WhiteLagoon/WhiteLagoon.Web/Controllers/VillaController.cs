@@ -12,7 +12,6 @@ namespace WhiteLagoon.Web.Controllers
         {
             _db = db;
         }
-        // Gemini API key AIzaSyCanNWt_0wDfApizWajkwx0_TLgA5QWxyE
         public async Task<IActionResult> Index()
         {
             var villa = await _db.Villas.ToListAsync();

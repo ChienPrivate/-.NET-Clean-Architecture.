@@ -28,7 +28,7 @@
                             <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
                         <li class="nav-item">
-                            <a id="fetchVillaBtn" class="nav-link" asp-area="" asp-controller="Villa" asp-action="Index">Villa</a>
+                            <a id="fetchVillaBtn" data-url="@Url.Action().ToString()" class="nav-link" asp-area="" asp-controller="Villa" asp-action="Index">Villa</a>
                         </li>
                     </ul>
                 </div>

@@ -1,16 +1,16 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAssetEndpoint Include="_content/WhiteLagoon.Web/css/site.22s2k6wzaq.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"22s2k6wzaq"},{"Name":"integrity","Value":"sha256-dtnW/6fnG5vQsXRK1hCv\u002BGoUoVxWQ6wI2VmQEP3tuR0="},{"Name":"label","Value":"_content/WhiteLagoon.Web/css/site.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1858"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022dtnW/6fnG5vQsXRK1hCv\u002BGoUoVxWQ6wI2VmQEP3tuR0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Feb 2025 11:19:48 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/WhiteLagoon.Web/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-dtnW/6fnG5vQsXRK1hCv\u002BGoUoVxWQ6wI2VmQEP3tuR0="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1858"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022dtnW/6fnG5vQsXRK1hCv\u002BGoUoVxWQ6wI2VmQEP3tuR0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Feb 2025 11:19:48 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-MBaM\u002BUVeiT9164bewfmaJxVd\u002B6CgYlwPmUjoMreZ\u002BkI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1997"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022MBaM\u002BUVeiT9164bewfmaJxVd\u002B6CgYlwPmUjoMreZ\u002BkI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Feb 2025 08:06:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WhiteLagoon.Web/css/site.oipgt9v92t.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"oipgt9v92t"},{"Name":"integrity","Value":"sha256-MBaM\u002BUVeiT9164bewfmaJxVd\u002B6CgYlwPmUjoMreZ\u002BkI="},{"Name":"label","Value":"_content/WhiteLagoon.Web/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1997"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022MBaM\u002BUVeiT9164bewfmaJxVd\u002B6CgYlwPmUjoMreZ\u002BkI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Feb 2025 08:06:05 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/WhiteLagoon.Web/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>
@@ -195,14 +195,14 @@
     <StaticWebAssetEndpoint Include="_content/WhiteLagoon.Web/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"231"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Feb 2025 08:37:28 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-QK4DYAd4bvBtuIhsoSZPAagu2e9taR3e3bKY8xrEinc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1636"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022QK4DYAd4bvBtuIhsoSZPAagu2e9taR3e3bKY8xrEinc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Feb 2025 09:52:35 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/WhiteLagoon.Web/js/site.xtxxf3hu2r.js">
+    <StaticWebAssetEndpoint Include="_content/WhiteLagoon.Web/js/site.w02c12nn61.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xtxxf3hu2r"},{"Name":"integrity","Value":"sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="},{"Name":"label","Value":"_content/WhiteLagoon.Web/js/site.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"231"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Feb 2025 08:37:28 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"w02c12nn61"},{"Name":"integrity","Value":"sha256-QK4DYAd4bvBtuIhsoSZPAagu2e9taR3e3bKY8xrEinc="},{"Name":"label","Value":"_content/WhiteLagoon.Web/js/site.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1636"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022QK4DYAd4bvBtuIhsoSZPAagu2e9taR3e3bKY8xrEinc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Feb 2025 09:52:35 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/WhiteLagoon.Web/lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.css'))</AssetFile>

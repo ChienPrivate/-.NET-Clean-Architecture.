@@ -1,40 +1,46 @@
 ﻿<script src="~/lib/jquery/dist/jquery.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
 
-
-<script type="text/javascript">
+<script>
     $(document).ready(function () {
-        function fetchVillaList(){
+        let date = new Date();
+        let formattedDate = date.toLocaleString();
+
+        function sendRequest(element, type = 'GET') {
+
+            url = $(element).data('url');
+
             $('#overlay').show();
             $('#loadingSpinner').show();
             $.ajax({
-                    url: '@Url.Action("Index", "Villa")',
-                    type: 'GET', // Nếu chỉ lấy danh sách Villa
-                    success: function (data) {
-                        // Giả sử bạn hiển thị danh sách trong #villaList
-                        $('#villaList').html(data);
-                        console.log('Yeahhh, we got it');
-                    },
-                    url: '@Url.Action("Index", "Villa")',
-                    error: function (xhr, status, error) {
-                        toastr.options.progressBar = true;
-                        toastr.error('Oops! Somethings went wrong ','@(DateTime.Now)')
-                    },
-                    complete: function(){
-                        $('#overlay').hide();
-                        $('#loadingSpinner').hide();
-                        console.log('Let celebrate');
-                    }
-                });
+                url: url,
+                type: type, // Nếu chỉ lấy danh sách Villa
+                success: function (data) {
+                    // Giả sử bạn hiển thị danh sách trong #villaList
+                    $('#villaList').html(data);
+                    console.log('Yeahhh, we got it');
+                },
+                url: '@Url.Action("Index", "Villa")',
+                error: function (xhr, status, error) {
+                    toastr.options.progressBar = true;
+                    toastr.error('Oops! Somethings went wrong ' + formattedDate)
+                },
+                complete: function () {
+                    $('#overlay').hide();
+                    $('#loadingSpinner').hide();
+                    console.log('Let celebrate');
+                }
+            });
         }
         $('#fetchVillaBtn').click(function () {
-            fetchVillaList();
+            sendRequest(this);
         });
     });
 </script>
 
+
 <div id="overlay" style="display: none;">
-    <div id="processText" class="text-center text-center rounded-2 p-4 " style="background-color: rgba(246,194,62, 0.2);">
-        <span id="loadingSpinner" class="spinner-border spinner-border-sm" style="display: none;"></span>
+    <div id="processText" class="text-center text-center rounded-2 p-4">
+        <div class="dots"></div>
     </div>
 </div>
