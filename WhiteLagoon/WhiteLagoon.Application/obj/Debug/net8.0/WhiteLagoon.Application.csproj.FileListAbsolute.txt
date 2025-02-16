@@ -10,3 +10,7 @@ D:\Test\Clean Achitecture\WhiteLagoon\WhiteLagoon.Application\obj\Debug\net8.0\W
 D:\Test\Clean Achitecture\WhiteLagoon\WhiteLagoon.Application\obj\Debug\net8.0\refint\WhiteLagoon.Application.dll
 D:\Test\Clean Achitecture\WhiteLagoon\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.pdb
 D:\Test\Clean Achitecture\WhiteLagoon\WhiteLagoon.Application\obj\Debug\net8.0\ref\WhiteLagoon.Application.dll
+D:\Test\Clean Achitecture\WhiteLagoon\WhiteLagoon.Application\bin\Debug\net8.0\WhiteLagoon.Domain.dll
+D:\Test\Clean Achitecture\WhiteLagoon\WhiteLagoon.Application\bin\Debug\net8.0\WhiteLagoon.Domain.pdb
+D:\Test\Clean Achitecture\WhiteLagoon\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.csproj.AssemblyReference.cache
+D:\Test\Clean Achitecture\WhiteLagoon\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLag.5B63BB29.Up2Date

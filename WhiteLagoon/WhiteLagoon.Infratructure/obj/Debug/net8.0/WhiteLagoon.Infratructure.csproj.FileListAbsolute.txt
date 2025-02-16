@@ -16,3 +16,5 @@ D:\Test\Clean Achitecture\WhiteLagoon\WhiteLagoon.Infratructure\obj\Debug\net8.0
 D:\Test\Clean Achitecture\WhiteLagoon\WhiteLagoon.Infratructure\bin\Debug\net8.0\WhiteLagoon.Domain.dll
 D:\Test\Clean Achitecture\WhiteLagoon\WhiteLagoon.Infratructure\bin\Debug\net8.0\WhiteLagoon.Domain.pdb
 D:\Test\Clean Achitecture\WhiteLagoon\WhiteLagoon.Infratructure\obj\Debug\net8.0\WhiteLag.C616C727.Up2Date
+D:\Test\Clean Achitecture\WhiteLagoon\WhiteLagoon.Infratructure\bin\Debug\net8.0\WhiteLagoon.Application.dll
+D:\Test\Clean Achitecture\WhiteLagoon\WhiteLagoon.Infratructure\bin\Debug\net8.0\WhiteLagoon.Application.pdb

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bydhhJA1JJgrmj2nXtG1WIdcIuHYZDZsQKt/s5/PVew=",
+  "Hash": "oDBje1RDqGsVguUc4DWm89k443r4YMb16xweFZJcC9c=",
   "Source": "WhiteLagoon.Web",
   "BasePath": "_content/WhiteLagoon.Web",
   "Mode": "Default",
@@ -409,8 +409,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "w02c12nn61",
-      "Integrity": "QK4DYAd4bvBtuIhsoSZPAagu2e9taR3e3bKY8xrEinc=",
+      "Fingerprint": "f1zfxcm32k",
+      "Integrity": "3Q+fS7UgzmPq6y/+fv5HCSz0EQ6yIzYWjH/RHrScvT0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
@@ -2927,6 +2927,51 @@
       ]
     },
     {
+      "Route": "js/site.f1zfxcm32k.js",
+      "AssetFile": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "562"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3Q+fS7UgzmPq6y/+fv5HCSz0EQ6yIzYWjH/RHrScvT0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 09:53:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f1zfxcm32k"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3Q+fS7UgzmPq6y/+fv5HCSz0EQ6yIzYWjH/RHrScvT0="
+        }
+      ]
+    },
+    {
       "Route": "js/site.js",
       "AssetFile": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\js\\site.js",
       "Selectors": [],
@@ -2937,7 +2982,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1636"
+          "Value": "562"
         },
         {
           "Name": "Content-Type",
@@ -2945,11 +2990,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"QK4DYAd4bvBtuIhsoSZPAagu2e9taR3e3bKY8xrEinc=\""
+          "Value": "\"3Q+fS7UgzmPq6y/+fv5HCSz0EQ6yIzYWjH/RHrScvT0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 09:52:35 GMT"
+          "Value": "Fri, 14 Feb 2025 09:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2959,52 +3004,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-QK4DYAd4bvBtuIhsoSZPAagu2e9taR3e3bKY8xrEinc="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.w02c12nn61.js",
-      "AssetFile": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\js\\site.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1636"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"QK4DYAd4bvBtuIhsoSZPAagu2e9taR3e3bKY8xrEinc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 09:52:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "w02c12nn61"
-        },
-        {
-          "Name": "label",
-          "Value": "js/site.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-QK4DYAd4bvBtuIhsoSZPAagu2e9taR3e3bKY8xrEinc="
+          "Value": "sha256-3Q+fS7UgzmPq6y/+fv5HCSz0EQ6yIzYWjH/RHrScvT0="
         }
       ]
     },

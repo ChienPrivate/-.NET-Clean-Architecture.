@@ -1609,6 +1609,19 @@
           }
         }
       },
+      "WhiteLagoon.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "WhiteLagoon.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WhiteLagoon.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WhiteLagoon.Application.dll": {}
+        }
+      },
       "WhiteLagoon.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -1617,7 +1630,10 @@
         },
         "runtime": {
           "bin/placeholder/WhiteLagoon.Domain.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -4735,6 +4751,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "WhiteLagoon.Application/1.0.0": {
+      "type": "project",
+      "path": "../WhiteLagoon.Application/WhiteLagoon.Application.csproj",
+      "msbuildProject": "../WhiteLagoon.Application/WhiteLagoon.Application.csproj"
+    },
     "WhiteLagoon.Domain/1.0.0": {
       "type": "project",
       "path": "../WhiteLagoon.Domain/WhiteLagoon.Domain.csproj",
@@ -4746,7 +4767,7 @@
       "Microsoft.EntityFrameworkCore.Design >= 9.0.1",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.1",
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.1",
-      "WhiteLagoon.Domain >= 1.0.0"
+      "WhiteLagoon.Application >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4781,8 +4802,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Domain\\WhiteLagoon.Domain.csproj": {
-              "projectPath": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Domain\\WhiteLagoon.Domain.csproj"
+            "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Application\\WhiteLagoon.Application.csproj": {
+              "projectPath": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Application\\WhiteLagoon.Application.csproj"
             }
           }
         }
