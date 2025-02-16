@@ -3,52 +3,64 @@
   "WorkspaceRootPath": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A9DAA201-2D3B-4BA9-808E-43C0F05F47D6}|WhiteLagoon.Web\\WhiteLagoon.Web.csproj|d:\\test\\clean achitecture\\whitelagoon\\whitelagoon.web\\migrations\\20250216071352_createandseedamenitytodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9DAA201-2D3B-4BA9-808E-43C0F05F47D6}|WhiteLagoon.Web\\WhiteLagoon.Web.csproj|solutionrelative:whitelagoon.web\\migrations\\20250216071352_createandseedamenitytodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2810EDE2-E97E-43B1-878B-57F27A083024}|WhiteLagoon.Infratructure\\WhiteLagoon.Infratructure.csproj|d:\\test\\clean achitecture\\whitelagoon\\whitelagoon.infratructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2810EDE2-E97E-43B1-878B-57F27A083024}|WhiteLagoon.Infratructure\\WhiteLagoon.Infratructure.csproj|solutionrelative:whitelagoon.infratructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CAA25B-3940-4C0C-9886-2A9FA7FD23C7}|WhiteLagoon.Domain\\WhiteLagoon.Domain.csproj|d:\\test\\clean achitecture\\whitelagoon\\whitelagoon.domain\\entities\\amenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02CAA25B-3940-4C0C-9886-2A9FA7FD23C7}|WhiteLagoon.Domain\\WhiteLagoon.Domain.csproj|solutionrelative:whitelagoon.domain\\entities\\amenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CAA25B-3940-4C0C-9886-2A9FA7FD23C7}|WhiteLagoon.Domain\\WhiteLagoon.Domain.csproj|d:\\test\\clean achitecture\\whitelagoon\\whitelagoon.domain\\entities\\villanumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02CAA25B-3940-4C0C-9886-2A9FA7FD23C7}|WhiteLagoon.Domain\\WhiteLagoon.Domain.csproj|solutionrelative:whitelagoon.domain\\entities\\villanumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CAA25B-3940-4C0C-9886-2A9FA7FD23C7}|WhiteLagoon.Domain\\WhiteLagoon.Domain.csproj|d:\\test\\clean achitecture\\whitelagoon\\whitelagoon.domain\\entities\\villa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02CAA25B-3940-4C0C-9886-2A9FA7FD23C7}|WhiteLagoon.Domain\\WhiteLagoon.Domain.csproj|solutionrelative:whitelagoon.domain\\entities\\villa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A9DAA201-2D3B-4BA9-808E-43C0F05F47D6}|WhiteLagoon.Web\\WhiteLagoon.Web.csproj|d:\\test\\clean achitecture\\whitelagoon\\whitelagoon.web\\controllers\\villacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9DAA201-2D3B-4BA9-808E-43C0F05F47D6}|WhiteLagoon.Web\\WhiteLagoon.Web.csproj|solutionrelative:whitelagoon.web\\controllers\\villacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9DAA201-2D3B-4BA9-808E-43C0F05F47D6}|WhiteLagoon.Web\\WhiteLagoon.Web.csproj|d:\\test\\clean achitecture\\whitelagoon\\whitelagoon.web\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A9DAA201-2D3B-4BA9-808E-43C0F05F47D6}|WhiteLagoon.Web\\WhiteLagoon.Web.csproj|solutionrelative:whitelagoon.web\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9DAA201-2D3B-4BA9-808E-43C0F05F47D6}|WhiteLagoon.Web\\WhiteLagoon.Web.csproj|d:\\test\\clean achitecture\\whitelagoon\\whitelagoon.web\\views\\shared\\_loadingscreen.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A9DAA201-2D3B-4BA9-808E-43C0F05F47D6}|WhiteLagoon.Web\\WhiteLagoon.Web.csproj|solutionrelative:whitelagoon.web\\views\\shared\\_loadingscreen.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9DAA201-2D3B-4BA9-808E-43C0F05F47D6}|WhiteLagoon.Web\\WhiteLagoon.Web.csproj|d:\\test\\clean achitecture\\whitelagoon\\whitelagoon.web\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A9DAA201-2D3B-4BA9-808E-43C0F05F47D6}|WhiteLagoon.Web\\WhiteLagoon.Web.csproj|solutionrelative:whitelagoon.web\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9DAA201-2D3B-4BA9-808E-43C0F05F47D6}|WhiteLagoon.Web\\WhiteLagoon.Web.csproj|d:\\test\\clean achitecture\\whitelagoon\\whitelagoon.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A9DAA201-2D3B-4BA9-808E-43C0F05F47D6}|WhiteLagoon.Web\\WhiteLagoon.Web.csproj|solutionrelative:whitelagoon.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9DAA201-2D3B-4BA9-808E-43C0F05F47D6}|WhiteLagoon.Web\\WhiteLagoon.Web.csproj|d:\\test\\clean achitecture\\whitelagoon\\whitelagoon.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A9DAA201-2D3B-4BA9-808E-43C0F05F47D6}|WhiteLagoon.Web\\WhiteLagoon.Web.csproj|solutionrelative:whitelagoon.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9DAA201-2D3B-4BA9-808E-43C0F05F47D6}|WhiteLagoon.Web\\WhiteLagoon.Web.csproj|d:\\test\\clean achitecture\\whitelagoon\\whitelagoon.web\\views\\villa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A9DAA201-2D3B-4BA9-808E-43C0F05F47D6}|WhiteLagoon.Web\\WhiteLagoon.Web.csproj|solutionrelative:whitelagoon.web\\views\\villa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A9DAA201-2D3B-4BA9-808E-43C0F05F47D6}|WhiteLagoon.Web\\WhiteLagoon.Web.csproj|d:\\test\\clean achitecture\\whitelagoon\\whitelagoon.web\\views\\villa\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A9DAA201-2D3B-4BA9-808E-43C0F05F47D6}|WhiteLagoon.Web\\WhiteLagoon.Web.csproj|solutionrelative:whitelagoon.web\\views\\villa\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9DAA201-2D3B-4BA9-808E-43C0F05F47D6}|WhiteLagoon.Web\\WhiteLagoon.Web.csproj|d:\\test\\clean achitecture\\whitelagoon\\whitelagoon.web\\views\\villa\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A9DAA201-2D3B-4BA9-808E-43C0F05F47D6}|WhiteLagoon.Web\\WhiteLagoon.Web.csproj|solutionrelative:whitelagoon.web\\views\\villa\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A9DAA201-2D3B-4BA9-808E-43C0F05F47D6}|WhiteLagoon.Web\\WhiteLagoon.Web.csproj|d:\\test\\clean achitecture\\whitelagoon\\whitelagoon.web\\views\\villa\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A9DAA201-2D3B-4BA9-808E-43C0F05F47D6}|WhiteLagoon.Web\\WhiteLagoon.Web.csproj|solutionrelative:whitelagoon.web\\views\\villa\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9DAA201-2D3B-4BA9-808E-43C0F05F47D6}|WhiteLagoon.Web\\WhiteLagoon.Web.csproj|d:\\test\\clean achitecture\\whitelagoon\\whitelagoon.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A9DAA201-2D3B-4BA9-808E-43C0F05F47D6}|WhiteLagoon.Web\\WhiteLagoon.Web.csproj|solutionrelative:whitelagoon.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A9DAA201-2D3B-4BA9-808E-43C0F05F47D6}|WhiteLagoon.Web\\WhiteLagoon.Web.csproj|d:\\test\\clean achitecture\\whitelagoon\\whitelagoon.web\\views\\villa\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9DAA201-2D3B-4BA9-808E-43C0F05F47D6}|WhiteLagoon.Web\\WhiteLagoon.Web.csproj|solutionrelative:whitelagoon.web\\views\\villa\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02CAA25B-3940-4C0C-9886-2A9FA7FD23C7}|WhiteLagoon.Domain\\WhiteLagoon.Domain.csproj|d:\\test\\clean achitecture\\whitelagoon\\whitelagoon.domain\\entities\\villa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02CAA25B-3940-4C0C-9886-2A9FA7FD23C7}|WhiteLagoon.Domain\\WhiteLagoon.Domain.csproj|solutionrelative:whitelagoon.domain\\entities\\villa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9DAA201-2D3B-4BA9-808E-43C0F05F47D6}|WhiteLagoon.Web\\WhiteLagoon.Web.csproj|d:\\test\\clean achitecture\\whitelagoon\\whitelagoon.web\\controllers\\villanumbercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9DAA201-2D3B-4BA9-808E-43C0F05F47D6}|WhiteLagoon.Web\\WhiteLagoon.Web.csproj|solutionrelative:whitelagoon.web\\controllers\\villanumbercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9DAA201-2D3B-4BA9-808E-43C0F05F47D6}|WhiteLagoon.Web\\WhiteLagoon.Web.csproj|d:\\test\\clean achitecture\\whitelagoon\\whitelagoon.web\\views\\villanumber\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9DAA201-2D3B-4BA9-808E-43C0F05F47D6}|WhiteLagoon.Web\\WhiteLagoon.Web.csproj|solutionrelative:whitelagoon.web\\views\\villanumber\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2810EDE2-E97E-43B1-878B-57F27A083024}|WhiteLagoon.Infratructure\\WhiteLagoon.Infratructure.csproj|d:\\test\\clean achitecture\\whitelagoon\\whitelagoon.infratructure\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2810EDE2-E97E-43B1-878B-57F27A083024}|WhiteLagoon.Infratructure\\WhiteLagoon.Infratructure.csproj|solutionrelative:whitelagoon.infratructure\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2810EDE2-E97E-43B1-878B-57F27A083024}|WhiteLagoon.Infratructure\\WhiteLagoon.Infratructure.csproj|d:\\test\\clean achitecture\\whitelagoon\\whitelagoon.infratructure\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2810EDE2-E97E-43B1-878B-57F27A083024}|WhiteLagoon.Infratructure\\WhiteLagoon.Infratructure.csproj|solutionrelative:whitelagoon.infratructure\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F40F0D-91E2-493B-8D3A-3D43B7D03425}|WhiteLagoon.Application\\WhiteLagoon.Application.csproj|d:\\test\\clean achitecture\\whitelagoon\\whitelagoon.application\\common\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F40F0D-91E2-493B-8D3A-3D43B7D03425}|WhiteLagoon.Application\\WhiteLagoon.Application.csproj|solutionrelative:whitelagoon.application\\common\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2810EDE2-E97E-43B1-878B-57F27A083024}|WhiteLagoon.Infratructure\\WhiteLagoon.Infratructure.csproj|d:\\test\\clean achitecture\\whitelagoon\\whitelagoon.infratructure\\repository\\villanumberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2810EDE2-E97E-43B1-878B-57F27A083024}|WhiteLagoon.Infratructure\\WhiteLagoon.Infratructure.csproj|solutionrelative:whitelagoon.infratructure\\repository\\villanumberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,22 +70,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "site.js",
-              "DocumentMoniker": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "WhiteLagoon.Web\\wwwroot\\js\\site.js",
-              "ToolTip": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "WhiteLagoon.Web\\wwwroot\\js\\site.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-14T08:23:24.288Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
@@ -108,90 +106,81 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_LoadingScreen.cshtml",
-              "DocumentMoniker": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\Views\\Shared\\_LoadingScreen.cshtml",
-              "RelativeDocumentMoniker": "WhiteLagoon.Web\\Views\\Shared\\_LoadingScreen.cshtml",
-              "ToolTip": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\Views\\Shared\\_LoadingScreen.cshtml",
-              "RelativeToolTip": "WhiteLagoon.Web\\Views\\Shared\\_LoadingScreen.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-13T11:06:48.831Z",
+              "DocumentIndex": 0,
+              "Title": "20250216071352_CreateAndSeedAmenityToDb.cs",
+              "DocumentMoniker": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\Migrations\\20250216071352_CreateAndSeedAmenityToDb.cs",
+              "RelativeDocumentMoniker": "WhiteLagoon.Web\\Migrations\\20250216071352_CreateAndSeedAmenityToDb.cs",
+              "ToolTip": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\Migrations\\20250216071352_CreateAndSeedAmenityToDb.cs",
+              "RelativeToolTip": "WhiteLagoon.Web\\Migrations\\20250216071352_CreateAndSeedAmenityToDb.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T07:13:52.468Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_Notification.cshtml",
-              "DocumentMoniker": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\Views\\Shared\\_Notification.cshtml",
-              "RelativeDocumentMoniker": "WhiteLagoon.Web\\Views\\Shared\\_Notification.cshtml",
-              "ToolTip": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\Views\\Shared\\_Notification.cshtml",
-              "RelativeToolTip": "WhiteLagoon.Web\\Views\\Shared\\_Notification.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-13T10:36:35.068Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "VillaController.cs",
-              "DocumentMoniker": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\Controllers\\VillaController.cs",
-              "RelativeDocumentMoniker": "WhiteLagoon.Web\\Controllers\\VillaController.cs",
-              "ToolTip": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\Controllers\\VillaController.cs",
-              "RelativeToolTip": "WhiteLagoon.Web\\Controllers\\VillaController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAIwDYAAAAdAAAAAAAAAA==",
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Infratructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WhiteLagoon.Infratructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Infratructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WhiteLagoon.Infratructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowKQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T14:48:39.826Z",
+              "WhenOpened": "2025-02-16T07:10:23.76Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
+              "Title": "VillaNumber.cs",
+              "DocumentMoniker": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Domain\\Entities\\VillaNumber.cs",
+              "RelativeDocumentMoniker": "WhiteLagoon.Domain\\Entities\\VillaNumber.cs",
+              "ToolTip": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Domain\\Entities\\VillaNumber.cs",
+              "RelativeToolTip": "WhiteLagoon.Domain\\Entities\\VillaNumber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T07:07:58.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Amenity.cs",
+              "DocumentMoniker": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Domain\\Entities\\Amenity.cs",
+              "RelativeDocumentMoniker": "WhiteLagoon.Domain\\Entities\\Amenity.cs",
+              "ToolTip": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Domain\\Entities\\Amenity.cs",
+              "RelativeToolTip": "WhiteLagoon.Domain\\Entities\\Amenity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T07:06:44.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\Views\\Villa\\Delete.cshtml",
               "RelativeDocumentMoniker": "WhiteLagoon.Web\\Views\\Villa\\Delete.cshtml",
               "ToolTip": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\Views\\Villa\\Delete.cshtml",
               "RelativeToolTip": "WhiteLagoon.Web\\Views\\Villa\\Delete.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAwCkAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-13T10:15:28.097Z"
+              "WhenOpened": "2025-02-16T06:57:04.225Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "WhiteLagoon.Web\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "WhiteLagoon.Web\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-13T09:25:37.167Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "Update.cshtml",
               "DocumentMoniker": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\Views\\Villa\\Update.cshtml",
               "RelativeDocumentMoniker": "WhiteLagoon.Web\\Views\\Villa\\Update.cshtml",
               "ToolTip": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\Views\\Villa\\Update.cshtml",
               "RelativeToolTip": "WhiteLagoon.Web\\Views\\Villa\\Update.cshtml",
-              "ViewState": "AgIAACgAAAAAAAAAAAAowDQAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-13T08:23:00.41Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Villa.cs",
-              "DocumentMoniker": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Domain\\Entities\\Villa.cs",
-              "RelativeDocumentMoniker": "WhiteLagoon.Domain\\Entities\\Villa.cs",
-              "ToolTip": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Domain\\Entities\\Villa.cs",
-              "RelativeToolTip": "WhiteLagoon.Domain\\Entities\\Villa.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBAAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T07:19:50.683Z"
+              "WhenOpened": "2025-02-16T05:11:44.092Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -201,47 +190,111 @@
               "RelativeDocumentMoniker": "WhiteLagoon.Web\\Views\\Villa\\Create.cshtml",
               "ToolTip": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\Views\\Villa\\Create.cshtml",
               "RelativeToolTip": "WhiteLagoon.Web\\Views\\Villa\\Create.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADQAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-13T06:51:12.278Z"
+              "WhenOpened": "2025-02-16T04:59:30.713Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WhiteLagoon.Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WhiteLagoon.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAAtAAAAAAAAAA==",
+              "Title": "Villa.cs",
+              "DocumentMoniker": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Domain\\Entities\\Villa.cs",
+              "RelativeDocumentMoniker": "WhiteLagoon.Domain\\Entities\\Villa.cs",
+              "ToolTip": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Domain\\Entities\\Villa.cs",
+              "RelativeToolTip": "WhiteLagoon.Domain\\Entities\\Villa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T04:58:12.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\Views\\VillaNumber\\Index.cshtml",
+              "RelativeDocumentMoniker": "WhiteLagoon.Web\\Views\\VillaNumber\\Index.cshtml",
+              "ToolTip": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\Views\\VillaNumber\\Index.cshtml",
+              "RelativeToolTip": "WhiteLagoon.Web\\Views\\VillaNumber\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-11T15:12:49.239Z",
+              "WhenOpened": "2025-02-16T04:52:40.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Application\\Common\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "WhiteLagoon.Application\\Common\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Application\\Common\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "WhiteLagoon.Application\\Common\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T15:38:38.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Infratructure\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "WhiteLagoon.Infratructure\\Repository\\Repository.cs",
+              "ToolTip": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Infratructure\\Repository\\Repository.cs",
+              "RelativeToolTip": "WhiteLagoon.Infratructure\\Repository\\Repository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA5wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T15:35:01.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VillaNumberRepository.cs",
+              "DocumentMoniker": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Infratructure\\Repository\\VillaNumberRepository.cs",
+              "RelativeDocumentMoniker": "WhiteLagoon.Infratructure\\Repository\\VillaNumberRepository.cs",
+              "ToolTip": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Infratructure\\Repository\\VillaNumberRepository.cs",
+              "RelativeToolTip": "WhiteLagoon.Infratructure\\Repository\\VillaNumberRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T15:34:49.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Infratructure\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "WhiteLagoon.Infratructure\\Repository\\UnitOfWork.cs",
+              "ToolTip": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Infratructure\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "WhiteLagoon.Infratructure\\Repository\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T15:34:46.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VillaNumberController.cs",
+              "DocumentMoniker": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\Controllers\\VillaNumberController.cs",
+              "RelativeDocumentMoniker": "WhiteLagoon.Web\\Controllers\\VillaNumberController.cs",
+              "ToolTip": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\Controllers\\VillaNumberController.cs",
+              "RelativeToolTip": "WhiteLagoon.Web\\Controllers\\VillaNumberController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T15:32:53.523Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "site.css",
-              "DocumentMoniker": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "WhiteLagoon.Web\\wwwroot\\css\\site.css",
-              "ToolTip": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "WhiteLagoon.Web\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAACoAAAAAAAAAAAAcwDIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-13T11:08:51.436Z",
+              "Title": "VillaController.cs",
+              "DocumentMoniker": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\Controllers\\VillaController.cs",
+              "RelativeDocumentMoniker": "WhiteLagoon.Web\\Controllers\\VillaController.cs",
+              "ToolTip": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\Controllers\\VillaController.cs",
+              "RelativeToolTip": "WhiteLagoon.Web\\Controllers\\VillaController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAEwGYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T15:32:46.849Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\Views\\Villa\\Index.cshtml",
-              "RelativeDocumentMoniker": "WhiteLagoon.Web\\Views\\Villa\\Index.cshtml",
-              "ToolTip": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\Views\\Villa\\Index.cshtml",
-              "RelativeToolTip": "WhiteLagoon.Web\\Views\\Villa\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-11T14:56:48.709Z"
             }
           ]
         }

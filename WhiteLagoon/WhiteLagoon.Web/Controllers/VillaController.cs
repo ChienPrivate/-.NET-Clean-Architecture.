@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using WhiteLagoon.Application.Common.Interfaces;
 using WhiteLagoon.Domain.Entities;
 using WhiteLagoon.Infratructure.Data;
 
@@ -7,14 +8,17 @@ namespace WhiteLagoon.Web.Controllers
 {
     public class VillaController : Controller
     {
-        private readonly ApplicationDbContext _db;
-        public VillaController(ApplicationDbContext db)
+        private readonly IUnitOfWork _unitOfWork;
+        private readonly IWebHostEnvironment _webHostEnvironment;
+
+        public VillaController(IUnitOfWork unitOfWork, IWebHostEnvironment webHostEnvironment)
         {
-            _db = db;
+            _unitOfWork = unitOfWork;
+            _webHostEnvironment = webHostEnvironment;
         }
         public async Task<IActionResult> Index()
         {
-            var villa = await _db.Villas.ToListAsync();
+            var villa = await _unitOfWork.Villa.GetAllAsync();
 
             return View(villa);
         }
@@ -34,9 +38,24 @@ namespace WhiteLagoon.Web.Controllers
 
             if (ModelState.IsValid)
             {
+                if (obj.Image is not null)
+                {
+                    string fileName = Guid.NewGuid().ToString() + Path.GetExtension(obj.Image.FileName);
+                    string imagePath = Path.Combine(_webHostEnvironment.WebRootPath, @"images\VillaImages");
+
+                    using (var filestream = new FileStream(Path.Combine(imagePath, fileName), FileMode.Create))
+                        obj.Image.CopyTo(filestream);
+
+                    obj.ImageUrl = @"\images\VillaImages\" + fileName;
+                }
+                else
+                {
+                    obj.ImageUrl = "http://placeholder.co/600x400";
+                }
+
                 obj.CreatedDate = DateTime.Now;
-                await _db.Villas.AddAsync(obj);
-                await _db.SaveChangesAsync();
+                await _unitOfWork.Villa.AddAsync(obj);
+                await _unitOfWork.SaveAsync();
                 TempData["success"] = "Created successfully";
                 return RedirectToAction(nameof(Index), "Villa");
             }
@@ -45,7 +64,7 @@ namespace WhiteLagoon.Web.Controllers
 
         public async Task<IActionResult> Update(int id)
         {
-            var obj = await _db.Villas.FirstOrDefaultAsync(v => v.Id.Equals(id));
+            var obj = await _unitOfWork.Villa.GetAsync(v => v.Id.Equals(id));
 
             if (obj == null) 
             {
@@ -60,10 +79,31 @@ namespace WhiteLagoon.Web.Controllers
         {
             if (ModelState.IsValid)
             {
+                if (obj.Image is not null)
+                {
+                    string fileName = Guid.NewGuid().ToString() + Path.GetExtension(obj.Image.FileName);
+                    string imagePath = Path.Combine(_webHostEnvironment.WebRootPath, @"images\VillaImages");
+
+                    if(!string.IsNullOrEmpty(obj.ImageUrl))
+                    {
+                        var oldImagePath = Path.Combine(_webHostEnvironment.WebRootPath, obj.ImageUrl.TrimStart('\\'));
+
+                        if (System.IO.File.Exists(oldImagePath))
+                        {
+                            System.IO.File.Delete(oldImagePath);
+                        }
+                    }    
+
+                    using (var filestream = new FileStream(Path.Combine(imagePath, fileName), FileMode.Create))
+                        obj.Image.CopyTo(filestream);
+
+                    obj.ImageUrl = @"\images\VillaImages\" + fileName;
+                }
+
                 obj.UpdatedDate = DateTime.Now;
-                _db.Villas.Update(obj);
-                await _db.SaveChangesAsync();
-                TempData["success"] = "Updated successfully";
+                _unitOfWork.Villa.Update(obj);
+                await _unitOfWork.SaveAsync();
+                TempData["success"] = "Villa has been updated successfully.";
                 return RedirectToAction("Index");
             }
             return View();
@@ -71,7 +111,7 @@ namespace WhiteLagoon.Web.Controllers
 
         public async Task<IActionResult> Delete(int id)
         {
-            var obj = await _db.Villas.FirstOrDefaultAsync(v => v.Id == id);
+            var obj = await _unitOfWork.Villa.GetAsync(v => v.Id.Equals(id));
 
             if (obj is null)
             {
@@ -84,14 +124,24 @@ namespace WhiteLagoon.Web.Controllers
         [HttpPost]
         public async Task<IActionResult> Delete(Villa obj)
         {
-            if (obj is not null || obj.Id is not 0)
+            Villa? objFromDb = await _unitOfWork.Villa.GetAsync(v => v.Id == obj.Id);
+            if (objFromDb is not null || obj.Id > 0)
             {
-                _db.Villas.Remove(obj);
-                await _db.SaveChangesAsync();
-                TempData["success"] = "Deleted successfully";
+                if (!string.IsNullOrEmpty(objFromDb.ImageUrl))
+                {
+                    var oldImagePath = Path.Combine(_webHostEnvironment.WebRootPath, objFromDb.ImageUrl.TrimStart('\\'));
+
+                    if (System.IO.File.Exists(oldImagePath))
+                    {
+                        System.IO.File.Delete(oldImagePath);
+                    }
+                }
+                _unitOfWork.Villa.Remove(objFromDb);
+                await _unitOfWork.SaveAsync();
+                TempData["success"] = "Villa has been deleted successfully.";
                 return RedirectToAction("Index");
             }
-
+            TempData["error"] = "villa might not exist, please check it again";
             return View(obj);
         }
     }

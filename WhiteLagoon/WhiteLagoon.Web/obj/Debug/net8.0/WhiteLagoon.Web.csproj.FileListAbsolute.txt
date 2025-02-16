@@ -175,3 +175,6 @@ D:\Test\Clean Achitecture\WhiteLagoon\WhiteLagoon.Web\obj\Debug\net8.0\WhiteLago
 D:\Test\Clean Achitecture\WhiteLagoon\WhiteLagoon.Web\obj\Debug\net8.0\ref\WhiteLagoon.Web.dll
 D:\Test\Clean Achitecture\WhiteLagoon\WhiteLagoon.Web\bin\Debug\net8.0\WhiteLagoon.Domain.dll
 D:\Test\Clean Achitecture\WhiteLagoon\WhiteLagoon.Web\bin\Debug\net8.0\WhiteLagoon.Domain.pdb
+D:\Test\Clean Achitecture\WhiteLagoon\WhiteLagoon.Web\obj\Debug\net8.0\WhiteLagoon.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\Test\Clean Achitecture\WhiteLagoon\WhiteLagoon.Web\bin\Debug\net8.0\WhiteLagoon.Application.dll
+D:\Test\Clean Achitecture\WhiteLagoon\WhiteLagoon.Web\bin\Debug\net8.0\WhiteLagoon.Application.pdb
