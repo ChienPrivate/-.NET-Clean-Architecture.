@@ -1,4 +1,5 @@
 wwwroot\css\site.css
+wwwroot\css\spinner.css
 wwwroot\favicon.ico
 wwwroot\images\accessDenied.jpg
 wwwroot\images\notfound.jpg
@@ -14,6 +15,17 @@ wwwroot\images\Room Images\6.jpg
 wwwroot\images\Room Images\7.jpg
 wwwroot\images\slide1.jpg
 wwwroot\images\slide2.jpg
+wwwroot\images\VillaImages\b82bd393-5a50-4ec8-b25f-47f4ca08f9aa.png
+wwwroot\images\VillaImages\b9c76812-3115-4fcd-876a-7524e8f524f5.jpg
+wwwroot\images\VillaImages\d1a57645-7000-459f-bb51-9ece540e348a.jpg
+wwwroot\images\VillaImages\d61a48bd-7a24-42be-8464-6b09272b8a50.jpg
+wwwroot\images\VillaImages\d7ab591f-d08d-46d5-97f3-690945517d23.jpeg
+wwwroot\images\VillaImages\dea8acc6-8f84-4a98-9628-d302cace3fdd.jpg
+wwwroot\images\VillaImages\ec233b06-c4f3-486b-a06e-71bf2193f9fe.jpg
+wwwroot\jquery-ajax-unobtrusive\jquery.unobtrusive-ajax.js
+wwwroot\jquery-ajax-unobtrusive\jquery.unobtrusive-ajax.min.js
+wwwroot\js\booking.js
+wwwroot\js\jquery.unobtrusive-ajax.min.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

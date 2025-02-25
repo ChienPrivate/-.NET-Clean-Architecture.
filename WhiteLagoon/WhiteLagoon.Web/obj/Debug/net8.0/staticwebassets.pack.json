@@ -2,11 +2,15 @@
   "Files": [
     {
       "Id": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WhiteLagoon.Web.bundle.scp.css",
-      "PackagePath": "staticwebassets\\WhiteLagoon.Web.m6zhdov9et.bundle.scp.css"
+      "PackagePath": "staticwebassets\\WhiteLagoon.Web.l0w69ykmmu.bundle.scp.css"
     },
     {
       "Id": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\css\\spinner.css",
+      "PackagePath": "staticwebassets\\css\\spinner.css"
     },
     {
       "Id": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\favicon.ico",
@@ -41,6 +45,34 @@
       "PackagePath": "staticwebassets\\images\\Room Images\\7.jpg"
     },
     {
+      "Id": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\images\\VillaImages\\b82bd393-5a50-4ec8-b25f-47f4ca08f9aa.png",
+      "PackagePath": "staticwebassets\\images\\VillaImages\\b82bd393-5a50-4ec8-b25f-47f4ca08f9aa.png"
+    },
+    {
+      "Id": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\images\\VillaImages\\b9c76812-3115-4fcd-876a-7524e8f524f5.jpg",
+      "PackagePath": "staticwebassets\\images\\VillaImages\\b9c76812-3115-4fcd-876a-7524e8f524f5.jpg"
+    },
+    {
+      "Id": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\images\\VillaImages\\d1a57645-7000-459f-bb51-9ece540e348a.jpg",
+      "PackagePath": "staticwebassets\\images\\VillaImages\\d1a57645-7000-459f-bb51-9ece540e348a.jpg"
+    },
+    {
+      "Id": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\images\\VillaImages\\d61a48bd-7a24-42be-8464-6b09272b8a50.jpg",
+      "PackagePath": "staticwebassets\\images\\VillaImages\\d61a48bd-7a24-42be-8464-6b09272b8a50.jpg"
+    },
+    {
+      "Id": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\images\\VillaImages\\d7ab591f-d08d-46d5-97f3-690945517d23.jpeg",
+      "PackagePath": "staticwebassets\\images\\VillaImages\\d7ab591f-d08d-46d5-97f3-690945517d23.jpeg"
+    },
+    {
+      "Id": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\images\\VillaImages\\dea8acc6-8f84-4a98-9628-d302cace3fdd.jpg",
+      "PackagePath": "staticwebassets\\images\\VillaImages\\dea8acc6-8f84-4a98-9628-d302cace3fdd.jpg"
+    },
+    {
+      "Id": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\images\\VillaImages\\ec233b06-c4f3-486b-a06e-71bf2193f9fe.jpg",
+      "PackagePath": "staticwebassets\\images\\VillaImages\\ec233b06-c4f3-486b-a06e-71bf2193f9fe.jpg"
+    },
+    {
       "Id": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\images\\accessDenied.jpg",
       "PackagePath": "staticwebassets\\images\\accessDenied.jpg"
     },
@@ -67,6 +99,22 @@
     {
       "Id": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\images\\slide2.jpg",
       "PackagePath": "staticwebassets\\images\\slide2.jpg"
+    },
+    {
+      "Id": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.js",
+      "PackagePath": "staticwebassets\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.js"
+    },
+    {
+      "Id": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.min.js",
+      "PackagePath": "staticwebassets\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.min.js"
+    },
+    {
+      "Id": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\js\\booking.js",
+      "PackagePath": "staticwebassets\\js\\booking.js"
+    },
+    {
+      "Id": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\js\\jquery.unobtrusive-ajax.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.unobtrusive-ajax.min.js"
     },
     {
       "Id": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\js\\site.js",

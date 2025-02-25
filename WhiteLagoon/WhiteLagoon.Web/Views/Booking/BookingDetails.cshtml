@@ -1,0 +1,197 @@
+﻿@model Booking
+@{
+    string text_bg_badge = string.Empty;
+    switch(Model.Status)
+    {
+        case StaticDetail.StatusPending:
+            text_bg_badge = "warning";
+            break;
+        case StaticDetail.StatusApproved:
+            text_bg_badge = "info";
+            break;
+        case StaticDetail.StatusCheckedIn:
+            text_bg_badge = "primary";
+            break;
+        case StaticDetail.StatusCompleted:
+            text_bg_badge = "success";
+            break;
+        case StaticDetail.StatusCanceled:
+            text_bg_badge = "danger";
+            break;
+        case StaticDetail.StatusRefunded:
+            text_bg_badge = "secondary";
+            break;
+    }
+}
+<div class="p-4 mt-0 mt-lg-4">
+    <div class="row" style="border: 1px solid #aaa;">
+
+        <div class="col-12 col-lg-6 p-4 2 mt-2 mt-md-0">
+            <div class="row p-1 " style="border-radius:20px; ">
+                <div class="col-6">
+                    <h3 class="text-success">Villa Details</h3>
+                </div>
+                <div class="col-6 text-end">
+                    <a class="btn btn-secondary my-2" asp-action="Index" asp-route-status="@StaticDetail.StatusApproved"><i class="bi bi-arrow-left-circle"></i> Back to Bookings</a>
+                </div>
+                <hr />
+                <partial name="_VillaDetail" model="@Model.Villa" />
+                <hr />
+                <div class="text-end">
+                    <h4 class="text-danger font-weight-bold ">
+                        Booking Total :
+                        <span style="border-bottom:1px solid #ff6a00">
+                            @Model.Villa.Price.ToString("c")
+                        </span>
+                    </h4>
+                </div>
+            </div>
+        </div>
+        <div class="col-12 col-lg-6 p-4 2 mt-4 mt-md-0" style="border-left:1px solid #aaa">
+            <form method="post">
+                <input asp-for="Id" hidden />
+                <input asp-for="Villa" hidden />
+                <input asp-for="UserId" hidden />
+                <input asp-for="CheckInDate" hidden />
+                <input asp-for="CheckOutDate" hidden />
+                <input asp-for="Nights" hidden />
+                <input asp-for="VillaNumber" hidden />
+
+                <div class="row pt-1 mb-3 " style="border-radius:20px; ">
+                    <div class="col-8">
+                        <h3 class="text-success">Enter Booking Details</h3>
+                    </div>
+                    <div class="col-4">
+                        @if((Model.Status == StaticDetail.StatusApproved || Model.Status == StaticDetail.StatusPending)
+                        && User.IsInRole(StaticDetail.Role_Admin))
+                        {
+                            <button type="submit" asp-controller="Booking" asp-action="CancelBooking" class="btn btn-sm btn-outline-danger form-control my-1">
+                                <i class="bi bi-x-circle"></i> &nbsp; Cancel Booking
+                            </button>
+                        }
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <h4>Status: <span class="badge text-bg-@text_bg_badge">@Model.Status</span></h4>
+                        
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="form-group pt-2 col-6">
+                        <label asp-for="Name" class="text-warning"></label>
+                        <input asp-for="Name" class="form-control" />
+                    </div>
+                    <div class="form-group pt-2 col-6">
+                        <label asp-for="Phone" class="text-warning"></label>
+                        <input asp-for="Phone" class="form-control" />
+                    </div>
+                    <div class="form-group pt-2 col-6">
+                        <label asp-for="Email" class="text-warning"></label>
+                        <input asp-for="Email" class="form-control" />
+                    </div>
+                    <div class="form-group pt-2 col-6">
+                        <label asp-for="CheckInDate" class="text-warning"></label>
+                        <input asp-for="CheckInDate" disabled class="form-control" />
+                    </div>
+                    <div class="form-group pt-2 col-6">
+                        <label asp-for="CheckOutDate" class="text-warning"></label>
+                        <input asp-for="CheckOutDate" disabled class="form-control" />
+                    </div>
+                    <div class="form-group pt-2 col-6">
+                        <label asp-for="Nights" class="text-warning"></label>
+                        <input asp-for="Nights" disabled class="form-control" />
+                    </div>
+                    <div class="form-group pt-2 col-6">
+                        <label asp-for="Status" class="text-warning">Status</label>
+                        <input asp-for="Status" disabled class="form-control" />
+                    </div>
+                    <div class="form-group pt-2 col-6">
+                        <label asp-for="BookingDate" class="text-warning"></label>
+                        <input asp-for="BookingDate" disabled class="form-control" />
+                    </div>
+                    <div class="form-group pt-2 col-6">
+                        <label asp-for="CheckInDate" class="text-warning"></label>
+                        <input asp-for="CheckInDate" disabled class="form-control" />
+                    </div>
+                    <div class="form-group pt-2 col-6">
+                        <label asp-for="ActualCheckInDate" class="text-warning"></label>
+                        <input asp-for="ActualCheckInDate" disabled class="form-control" />
+                    </div>
+
+
+                    <div class="form-group pt-2 col-6">
+                        <label asp-for="CheckOutDate" class="text-warning"></label>
+                        <input asp-for="CheckOutDate" disabled class="form-control" />
+                    </div>
+                    <div class="form-group pt-2 col-6">
+                        <label asp-for="ActualCheckOutDate" class="text-warning"></label>
+                        <input asp-for="ActualCheckOutDate" disabled class="form-control" />
+                    </div>
+
+                    @if(Model.Status == StaticDetail.StatusApproved && User.IsInRole(StaticDetail.Role_Admin))
+                    {
+                        <div class="form-group pt-2 col-6">
+                            <label asp-for="VillaNumber" class="text-danger"></label>
+                            @if (Model.Status == StaticDetail.StatusApproved)
+                            {
+                                <select asp-for="VillaNumber" class="form-select">
+                                    <option disabled selected>--Choose Villa Number--</option>
+                                    @foreach (var villaNumber in Model.VillaNumbers)
+                                    {
+                                        <option value="@villaNumber.Villa_Number">@villaNumber.Villa_Number</option>
+                                    }
+                                </select>
+                            }
+                        </div>
+                    }
+                    else
+                    {
+                        @if(Model.Status == StaticDetail.StatusCheckedIn || Model.Status == StaticDetail.StatusCompleted)
+                        {
+                            <div class="form-group pt-2 col-6">
+                                <label asp-for="VillaNumber" class="text-warning"></label>
+                                <input asp-for="VillaNumber" disabled class="form-control" />
+                            </div>
+                        }
+                    }
+                    
+
+                    @if (Model.IsPaymentSuccessful && User.IsInRole(StaticDetail.Role_Admin))
+                    {
+                        <div class="form-group pt-2 col-6">
+                            <label asp-for="StripePaymentIntentId" class="text-warning"></label>
+                            <input asp-for="StripePaymentIntentId" disabled class="form-control" />
+                        </div>
+                        <div class="form-group pt-2 col-6">
+                            <label asp-for="StripeSessionId" class="text-warning"></label>
+                            <input asp-for="StripeSessionId" disabled class="form-control" />
+                        </div>
+                        <div class="form-group pt-2 col-6">
+                            <label asp-for="PaymentDate" class="text-warning"></label>
+                            <input asp-for="PaymentDate" disabled class="form-control" />
+                        </div>
+                    }
+                </div>
+                <div class="form-group pt-2 pt-md-4">
+                    @if(User.IsInRole(StaticDetail.Role_Admin))
+                    {
+                        @if(Model.Status == StaticDetail.StatusApproved)
+                        {
+                            <button type="submit" asp-controller="Booking" asp-action="CheckIn" class="btn btn-warning form-control my-1">
+                                <i class="bi bi-check2-square"></i> &nbsp; Check In
+                            </button>
+                        }
+                        @if (Model.Status == StaticDetail.StatusCheckedIn)
+                        {
+                            <button type="submit" asp-controller="Booking" asp-action="CheckOut" class="btn btn-success form-control my-1">
+                                <i class="bi bi-clipboard2-check"></i> &nbsp; Check Out / Complete Booking
+                            </button>
+                        }
+
+                    }
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
