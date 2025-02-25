@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oDBje1RDqGsVguUc4DWm89k443r4YMb16xweFZJcC9c=",
+  "Hash": "WYP51oaGv6Dq64HW06yv/9M/RnnxpSjgpM4h6QUENTs=",
   "Source": "WhiteLagoon.Web",
   "BasePath": "_content/WhiteLagoon.Web",
   "Mode": "Default",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "m6zhdov9et",
-      "Integrity": "Xon+aokNoVBU3GE20Y6idNoXRQEv/luPmYopFcMUYh4=",
+      "Fingerprint": "l0w69ykmmu",
+      "Integrity": "a+cFGGU9zKrcNwtalcjvqtWl9Dr1fCx9B9jaOD8URhE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WhiteLagoon.Web.styles.css"
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "m6zhdov9et",
-      "Integrity": "Xon+aokNoVBU3GE20Y6idNoXRQEv/luPmYopFcMUYh4=",
+      "Fingerprint": "l0w69ykmmu",
+      "Integrity": "a+cFGGU9zKrcNwtalcjvqtWl9Dr1fCx9B9jaOD8URhE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WhiteLagoon.Web.bundle.scp.css"
@@ -78,6 +78,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\css\\spinner.css",
+      "SourceId": "WhiteLagoon.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\",
+      "BasePath": "_content/WhiteLagoon.Web",
+      "RelativePath": "css/spinner#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hgythw87el",
+      "Integrity": "scSLZus4UeFp21JdyA4qL2+Fl4CsyDfsll4vl2VMloM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\spinner.css"
     },
     {
       "Identity": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\favicon.ico",
@@ -393,6 +414,237 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\slide2.jpg"
+    },
+    {
+      "Identity": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\images\\VillaImages\\b82bd393-5a50-4ec8-b25f-47f4ca08f9aa.png",
+      "SourceId": "WhiteLagoon.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\",
+      "BasePath": "_content/WhiteLagoon.Web",
+      "RelativePath": "images/VillaImages/b82bd393-5a50-4ec8-b25f-47f4ca08f9aa#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fu6vtkxjsb",
+      "Integrity": "ZxEq9fGQMOIOl0kKmF8wPUXy5axjKjC9W0qDqbLEFaE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\VillaImages\\b82bd393-5a50-4ec8-b25f-47f4ca08f9aa.png"
+    },
+    {
+      "Identity": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\images\\VillaImages\\b9c76812-3115-4fcd-876a-7524e8f524f5.jpg",
+      "SourceId": "WhiteLagoon.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\",
+      "BasePath": "_content/WhiteLagoon.Web",
+      "RelativePath": "images/VillaImages/b9c76812-3115-4fcd-876a-7524e8f524f5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jm1yeeq3re",
+      "Integrity": "u2J5xFO57oUUPcttDXgnNhAbtwoFKO9/3xor+I9Ny9I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\VillaImages\\b9c76812-3115-4fcd-876a-7524e8f524f5.jpg"
+    },
+    {
+      "Identity": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\images\\VillaImages\\d1a57645-7000-459f-bb51-9ece540e348a.jpg",
+      "SourceId": "WhiteLagoon.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\",
+      "BasePath": "_content/WhiteLagoon.Web",
+      "RelativePath": "images/VillaImages/d1a57645-7000-459f-bb51-9ece540e348a#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "unvjvnayh4",
+      "Integrity": "9n2mvvWRDtLKMD8Gd0CHrW/9y+ZyEoVgHAV7s7KEklQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\VillaImages\\d1a57645-7000-459f-bb51-9ece540e348a.jpg"
+    },
+    {
+      "Identity": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\images\\VillaImages\\d61a48bd-7a24-42be-8464-6b09272b8a50.jpg",
+      "SourceId": "WhiteLagoon.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\",
+      "BasePath": "_content/WhiteLagoon.Web",
+      "RelativePath": "images/VillaImages/d61a48bd-7a24-42be-8464-6b09272b8a50#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zvnbix0ak4",
+      "Integrity": "UbzY6F1OClev8Vl9XZbO/k9IGpAhDDJ4tpgJD454rzg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\VillaImages\\d61a48bd-7a24-42be-8464-6b09272b8a50.jpg"
+    },
+    {
+      "Identity": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\images\\VillaImages\\d7ab591f-d08d-46d5-97f3-690945517d23.jpeg",
+      "SourceId": "WhiteLagoon.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\",
+      "BasePath": "_content/WhiteLagoon.Web",
+      "RelativePath": "images/VillaImages/d7ab591f-d08d-46d5-97f3-690945517d23#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q3u3henpar",
+      "Integrity": "JhQARWtnXE1sMq4zv6c8Nwb20Js5y6+7BuI4wqEVXHI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\VillaImages\\d7ab591f-d08d-46d5-97f3-690945517d23.jpeg"
+    },
+    {
+      "Identity": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\images\\VillaImages\\dea8acc6-8f84-4a98-9628-d302cace3fdd.jpg",
+      "SourceId": "WhiteLagoon.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\",
+      "BasePath": "_content/WhiteLagoon.Web",
+      "RelativePath": "images/VillaImages/dea8acc6-8f84-4a98-9628-d302cace3fdd#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lz6sxe9qoj",
+      "Integrity": "Ydt0tQVqNIR2vzsS83EcdbJZpmm7Q8AXjonk4SvW3eA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\VillaImages\\dea8acc6-8f84-4a98-9628-d302cace3fdd.jpg"
+    },
+    {
+      "Identity": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\images\\VillaImages\\ec233b06-c4f3-486b-a06e-71bf2193f9fe.jpg",
+      "SourceId": "WhiteLagoon.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\",
+      "BasePath": "_content/WhiteLagoon.Web",
+      "RelativePath": "images/VillaImages/ec233b06-c4f3-486b-a06e-71bf2193f9fe#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r6zl32u263",
+      "Integrity": "YzAEc4GFZqJgHi4RjHifQFxH7vt4/8nGNTwF7BIfN+U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\VillaImages\\ec233b06-c4f3-486b-a06e-71bf2193f9fe.jpg"
+    },
+    {
+      "Identity": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.js",
+      "SourceId": "WhiteLagoon.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\",
+      "BasePath": "_content/WhiteLagoon.Web",
+      "RelativePath": "jquery-ajax-unobtrusive/jquery.unobtrusive-ajax#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vs3qwh9hx3",
+      "Integrity": "v2nySZafnswY87um3ymbg7p9f766IQspC5oqaqZVX2c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.js"
+    },
+    {
+      "Identity": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.min.js",
+      "SourceId": "WhiteLagoon.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\",
+      "BasePath": "_content/WhiteLagoon.Web",
+      "RelativePath": "jquery-ajax-unobtrusive/jquery.unobtrusive-ajax.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8ve2wm9mbw",
+      "Integrity": "PAC000yuHt78nszJ2RO0OiDMu/uLzPLRlYTk8J3AO10=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.min.js"
+    },
+    {
+      "Identity": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\js\\booking.js",
+      "SourceId": "WhiteLagoon.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\",
+      "BasePath": "_content/WhiteLagoon.Web",
+      "RelativePath": "js/booking#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fq74plnj23",
+      "Integrity": "2aK1GmJmRGCJv5jEb/iGnUP6wKRe+wHlstInUNDmcZo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\booking.js"
+    },
+    {
+      "Identity": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\js\\jquery.unobtrusive-ajax.min.js",
+      "SourceId": "WhiteLagoon.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\",
+      "BasePath": "_content/WhiteLagoon.Web",
+      "RelativePath": "js/jquery.unobtrusive-ajax.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8ve2wm9mbw",
+      "Integrity": "PAC000yuHt78nszJ2RO0OiDMu/uLzPLRlYTk8J3AO10=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\jquery.unobtrusive-ajax.min.js"
     },
     {
       "Identity": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\js\\site.js",
@@ -1697,6 +1949,88 @@
       ]
     },
     {
+      "Route": "css/spinner.css",
+      "AssetFile": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\css\\spinner.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3107"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"scSLZus4UeFp21JdyA4qL2+Fl4CsyDfsll4vl2VMloM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 06:55:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-scSLZus4UeFp21JdyA4qL2+Fl4CsyDfsll4vl2VMloM="
+        }
+      ]
+    },
+    {
+      "Route": "css/spinner.hgythw87el.css",
+      "AssetFile": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\css\\spinner.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3107"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"scSLZus4UeFp21JdyA4qL2+Fl4CsyDfsll4vl2VMloM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 06:55:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hgythw87el"
+        },
+        {
+          "Name": "label",
+          "Value": "css/spinner.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-scSLZus4UeFp21JdyA4qL2+Fl4CsyDfsll4vl2VMloM="
+        }
+      ]
+    },
+    {
       "Route": "favicon.61n19gt1b8.ico",
       "AssetFile": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\favicon.ico",
       "Selectors": [],
@@ -2923,6 +3257,908 @@
         {
           "Name": "integrity",
           "Value": "sha256-zsftHjfaXaeMPBxMUKXhvBAD67eFM9PnFF6Amp1Ydmc="
+        }
+      ]
+    },
+    {
+      "Route": "images/VillaImages/b82bd393-5a50-4ec8-b25f-47f4ca08f9aa.fu6vtkxjsb.png",
+      "AssetFile": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\images\\VillaImages\\b82bd393-5a50-4ec8-b25f-47f4ca08f9aa.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232011"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZxEq9fGQMOIOl0kKmF8wPUXy5axjKjC9W0qDqbLEFaE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 06:55:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fu6vtkxjsb"
+        },
+        {
+          "Name": "label",
+          "Value": "images/VillaImages/b82bd393-5a50-4ec8-b25f-47f4ca08f9aa.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZxEq9fGQMOIOl0kKmF8wPUXy5axjKjC9W0qDqbLEFaE="
+        }
+      ]
+    },
+    {
+      "Route": "images/VillaImages/b82bd393-5a50-4ec8-b25f-47f4ca08f9aa.png",
+      "AssetFile": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\images\\VillaImages\\b82bd393-5a50-4ec8-b25f-47f4ca08f9aa.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232011"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZxEq9fGQMOIOl0kKmF8wPUXy5axjKjC9W0qDqbLEFaE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 06:55:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZxEq9fGQMOIOl0kKmF8wPUXy5axjKjC9W0qDqbLEFaE="
+        }
+      ]
+    },
+    {
+      "Route": "images/VillaImages/b9c76812-3115-4fcd-876a-7524e8f524f5.jm1yeeq3re.jpg",
+      "AssetFile": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\images\\VillaImages\\b9c76812-3115-4fcd-876a-7524e8f524f5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "377600"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u2J5xFO57oUUPcttDXgnNhAbtwoFKO9/3xor+I9Ny9I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 07:43:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jm1yeeq3re"
+        },
+        {
+          "Name": "label",
+          "Value": "images/VillaImages/b9c76812-3115-4fcd-876a-7524e8f524f5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u2J5xFO57oUUPcttDXgnNhAbtwoFKO9/3xor+I9Ny9I="
+        }
+      ]
+    },
+    {
+      "Route": "images/VillaImages/b9c76812-3115-4fcd-876a-7524e8f524f5.jpg",
+      "AssetFile": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\images\\VillaImages\\b9c76812-3115-4fcd-876a-7524e8f524f5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "377600"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u2J5xFO57oUUPcttDXgnNhAbtwoFKO9/3xor+I9Ny9I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 07:43:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u2J5xFO57oUUPcttDXgnNhAbtwoFKO9/3xor+I9Ny9I="
+        }
+      ]
+    },
+    {
+      "Route": "images/VillaImages/d1a57645-7000-459f-bb51-9ece540e348a.jpg",
+      "AssetFile": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\images\\VillaImages\\d1a57645-7000-459f-bb51-9ece540e348a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "340302"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9n2mvvWRDtLKMD8Gd0CHrW/9y+ZyEoVgHAV7s7KEklQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 07:43:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9n2mvvWRDtLKMD8Gd0CHrW/9y+ZyEoVgHAV7s7KEklQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/VillaImages/d1a57645-7000-459f-bb51-9ece540e348a.unvjvnayh4.jpg",
+      "AssetFile": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\images\\VillaImages\\d1a57645-7000-459f-bb51-9ece540e348a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "340302"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9n2mvvWRDtLKMD8Gd0CHrW/9y+ZyEoVgHAV7s7KEklQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 07:43:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "unvjvnayh4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/VillaImages/d1a57645-7000-459f-bb51-9ece540e348a.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9n2mvvWRDtLKMD8Gd0CHrW/9y+ZyEoVgHAV7s7KEklQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/VillaImages/d61a48bd-7a24-42be-8464-6b09272b8a50.jpg",
+      "AssetFile": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\images\\VillaImages\\d61a48bd-7a24-42be-8464-6b09272b8a50.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "174890"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UbzY6F1OClev8Vl9XZbO/k9IGpAhDDJ4tpgJD454rzg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 07:43:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UbzY6F1OClev8Vl9XZbO/k9IGpAhDDJ4tpgJD454rzg="
+        }
+      ]
+    },
+    {
+      "Route": "images/VillaImages/d61a48bd-7a24-42be-8464-6b09272b8a50.zvnbix0ak4.jpg",
+      "AssetFile": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\images\\VillaImages\\d61a48bd-7a24-42be-8464-6b09272b8a50.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "174890"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UbzY6F1OClev8Vl9XZbO/k9IGpAhDDJ4tpgJD454rzg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 07:43:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zvnbix0ak4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/VillaImages/d61a48bd-7a24-42be-8464-6b09272b8a50.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UbzY6F1OClev8Vl9XZbO/k9IGpAhDDJ4tpgJD454rzg="
+        }
+      ]
+    },
+    {
+      "Route": "images/VillaImages/d7ab591f-d08d-46d5-97f3-690945517d23.jpeg",
+      "AssetFile": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\images\\VillaImages\\d7ab591f-d08d-46d5-97f3-690945517d23.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43109"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JhQARWtnXE1sMq4zv6c8Nwb20Js5y6+7BuI4wqEVXHI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 06:56:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JhQARWtnXE1sMq4zv6c8Nwb20Js5y6+7BuI4wqEVXHI="
+        }
+      ]
+    },
+    {
+      "Route": "images/VillaImages/d7ab591f-d08d-46d5-97f3-690945517d23.q3u3henpar.jpeg",
+      "AssetFile": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\images\\VillaImages\\d7ab591f-d08d-46d5-97f3-690945517d23.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43109"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JhQARWtnXE1sMq4zv6c8Nwb20Js5y6+7BuI4wqEVXHI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 06:56:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q3u3henpar"
+        },
+        {
+          "Name": "label",
+          "Value": "images/VillaImages/d7ab591f-d08d-46d5-97f3-690945517d23.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JhQARWtnXE1sMq4zv6c8Nwb20Js5y6+7BuI4wqEVXHI="
+        }
+      ]
+    },
+    {
+      "Route": "images/VillaImages/dea8acc6-8f84-4a98-9628-d302cace3fdd.jpg",
+      "AssetFile": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\images\\VillaImages\\dea8acc6-8f84-4a98-9628-d302cace3fdd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "325296"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ydt0tQVqNIR2vzsS83EcdbJZpmm7Q8AXjonk4SvW3eA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 07:43:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ydt0tQVqNIR2vzsS83EcdbJZpmm7Q8AXjonk4SvW3eA="
+        }
+      ]
+    },
+    {
+      "Route": "images/VillaImages/dea8acc6-8f84-4a98-9628-d302cace3fdd.lz6sxe9qoj.jpg",
+      "AssetFile": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\images\\VillaImages\\dea8acc6-8f84-4a98-9628-d302cace3fdd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "325296"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ydt0tQVqNIR2vzsS83EcdbJZpmm7Q8AXjonk4SvW3eA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 07:43:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lz6sxe9qoj"
+        },
+        {
+          "Name": "label",
+          "Value": "images/VillaImages/dea8acc6-8f84-4a98-9628-d302cace3fdd.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ydt0tQVqNIR2vzsS83EcdbJZpmm7Q8AXjonk4SvW3eA="
+        }
+      ]
+    },
+    {
+      "Route": "images/VillaImages/ec233b06-c4f3-486b-a06e-71bf2193f9fe.jpg",
+      "AssetFile": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\images\\VillaImages\\ec233b06-c4f3-486b-a06e-71bf2193f9fe.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "373227"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YzAEc4GFZqJgHi4RjHifQFxH7vt4/8nGNTwF7BIfN+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 07:43:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YzAEc4GFZqJgHi4RjHifQFxH7vt4/8nGNTwF7BIfN+U="
+        }
+      ]
+    },
+    {
+      "Route": "images/VillaImages/ec233b06-c4f3-486b-a06e-71bf2193f9fe.r6zl32u263.jpg",
+      "AssetFile": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\images\\VillaImages\\ec233b06-c4f3-486b-a06e-71bf2193f9fe.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "373227"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YzAEc4GFZqJgHi4RjHifQFxH7vt4/8nGNTwF7BIfN+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 07:43:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r6zl32u263"
+        },
+        {
+          "Name": "label",
+          "Value": "images/VillaImages/ec233b06-c4f3-486b-a06e-71bf2193f9fe.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YzAEc4GFZqJgHi4RjHifQFxH7vt4/8nGNTwF7BIfN+U="
+        }
+      ]
+    },
+    {
+      "Route": "jquery-ajax-unobtrusive/jquery.unobtrusive-ajax.js",
+      "AssetFile": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7872"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v2nySZafnswY87um3ymbg7p9f766IQspC5oqaqZVX2c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 07:00:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-v2nySZafnswY87um3ymbg7p9f766IQspC5oqaqZVX2c="
+        }
+      ]
+    },
+    {
+      "Route": "jquery-ajax-unobtrusive/jquery.unobtrusive-ajax.min.8ve2wm9mbw.js",
+      "AssetFile": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4061"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PAC000yuHt78nszJ2RO0OiDMu/uLzPLRlYTk8J3AO10=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 07:00:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8ve2wm9mbw"
+        },
+        {
+          "Name": "label",
+          "Value": "jquery-ajax-unobtrusive/jquery.unobtrusive-ajax.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PAC000yuHt78nszJ2RO0OiDMu/uLzPLRlYTk8J3AO10="
+        }
+      ]
+    },
+    {
+      "Route": "jquery-ajax-unobtrusive/jquery.unobtrusive-ajax.min.js",
+      "AssetFile": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4061"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PAC000yuHt78nszJ2RO0OiDMu/uLzPLRlYTk8J3AO10=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 07:00:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PAC000yuHt78nszJ2RO0OiDMu/uLzPLRlYTk8J3AO10="
+        }
+      ]
+    },
+    {
+      "Route": "jquery-ajax-unobtrusive/jquery.unobtrusive-ajax.vs3qwh9hx3.js",
+      "AssetFile": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7872"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v2nySZafnswY87um3ymbg7p9f766IQspC5oqaqZVX2c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 07:00:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vs3qwh9hx3"
+        },
+        {
+          "Name": "label",
+          "Value": "jquery-ajax-unobtrusive/jquery.unobtrusive-ajax.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-v2nySZafnswY87um3ymbg7p9f766IQspC5oqaqZVX2c="
+        }
+      ]
+    },
+    {
+      "Route": "js/booking.fq74plnj23.js",
+      "AssetFile": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\js\\booking.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2308"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2aK1GmJmRGCJv5jEb/iGnUP6wKRe+wHlstInUNDmcZo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 09:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fq74plnj23"
+        },
+        {
+          "Name": "label",
+          "Value": "js/booking.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2aK1GmJmRGCJv5jEb/iGnUP6wKRe+wHlstInUNDmcZo="
+        }
+      ]
+    },
+    {
+      "Route": "js/booking.js",
+      "AssetFile": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\js\\booking.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2308"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2aK1GmJmRGCJv5jEb/iGnUP6wKRe+wHlstInUNDmcZo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 09:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2aK1GmJmRGCJv5jEb/iGnUP6wKRe+wHlstInUNDmcZo="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery.unobtrusive-ajax.min.8ve2wm9mbw.js",
+      "AssetFile": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\js\\jquery.unobtrusive-ajax.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4061"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PAC000yuHt78nszJ2RO0OiDMu/uLzPLRlYTk8J3AO10=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 07:00:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8ve2wm9mbw"
+        },
+        {
+          "Name": "label",
+          "Value": "js/jquery.unobtrusive-ajax.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PAC000yuHt78nszJ2RO0OiDMu/uLzPLRlYTk8J3AO10="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery.unobtrusive-ajax.min.js",
+      "AssetFile": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\js\\jquery.unobtrusive-ajax.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4061"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PAC000yuHt78nszJ2RO0OiDMu/uLzPLRlYTk8J3AO10=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 07:00:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PAC000yuHt78nszJ2RO0OiDMu/uLzPLRlYTk8J3AO10="
         }
       ]
     },
@@ -7693,7 +8929,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1133"
+          "Value": "980"
         },
         {
           "Name": "Content-Type",
@@ -7701,11 +8937,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Xon+aokNoVBU3GE20Y6idNoXRQEv/luPmYopFcMUYh4=\""
+          "Value": "\"a+cFGGU9zKrcNwtalcjvqtWl9Dr1fCx9B9jaOD8URhE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 09:36:46 GMT"
+          "Value": "Mon, 17 Feb 2025 10:54:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7715,12 +8951,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Xon+aokNoVBU3GE20Y6idNoXRQEv/luPmYopFcMUYh4="
+          "Value": "sha256-a+cFGGU9zKrcNwtalcjvqtWl9Dr1fCx9B9jaOD8URhE="
         }
       ]
     },
     {
-      "Route": "WhiteLagoon.Web.m6zhdov9et.bundle.scp.css",
+      "Route": "WhiteLagoon.Web.l0w69ykmmu.bundle.scp.css",
       "AssetFile": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WhiteLagoon.Web.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -7730,7 +8966,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1133"
+          "Value": "980"
         },
         {
           "Name": "Content-Type",
@@ -7738,11 +8974,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Xon+aokNoVBU3GE20Y6idNoXRQEv/luPmYopFcMUYh4=\""
+          "Value": "\"a+cFGGU9zKrcNwtalcjvqtWl9Dr1fCx9B9jaOD8URhE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 09:36:46 GMT"
+          "Value": "Mon, 17 Feb 2025 10:54:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7752,7 +8988,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "m6zhdov9et"
+          "Value": "l0w69ykmmu"
         },
         {
           "Name": "label",
@@ -7760,12 +8996,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Xon+aokNoVBU3GE20Y6idNoXRQEv/luPmYopFcMUYh4="
+          "Value": "sha256-a+cFGGU9zKrcNwtalcjvqtWl9Dr1fCx9B9jaOD8URhE="
         }
       ]
     },
     {
-      "Route": "WhiteLagoon.Web.m6zhdov9et.styles.css",
+      "Route": "WhiteLagoon.Web.l0w69ykmmu.styles.css",
       "AssetFile": "D:\\Test\\Clean Achitecture\\WhiteLagoon\\WhiteLagoon.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WhiteLagoon.Web.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -7775,7 +9011,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1133"
+          "Value": "980"
         },
         {
           "Name": "Content-Type",
@@ -7783,11 +9019,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Xon+aokNoVBU3GE20Y6idNoXRQEv/luPmYopFcMUYh4=\""
+          "Value": "\"a+cFGGU9zKrcNwtalcjvqtWl9Dr1fCx9B9jaOD8URhE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 09:36:46 GMT"
+          "Value": "Mon, 17 Feb 2025 10:54:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7797,7 +9033,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "m6zhdov9et"
+          "Value": "l0w69ykmmu"
         },
         {
           "Name": "label",
@@ -7805,7 +9041,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Xon+aokNoVBU3GE20Y6idNoXRQEv/luPmYopFcMUYh4="
+          "Value": "sha256-a+cFGGU9zKrcNwtalcjvqtWl9Dr1fCx9B9jaOD8URhE="
         }
       ]
     },
@@ -7820,7 +9056,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1133"
+          "Value": "980"
         },
         {
           "Name": "Content-Type",
@@ -7828,11 +9064,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Xon+aokNoVBU3GE20Y6idNoXRQEv/luPmYopFcMUYh4=\""
+          "Value": "\"a+cFGGU9zKrcNwtalcjvqtWl9Dr1fCx9B9jaOD8URhE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 09:36:46 GMT"
+          "Value": "Mon, 17 Feb 2025 10:54:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7842,7 +9078,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Xon+aokNoVBU3GE20Y6idNoXRQEv/luPmYopFcMUYh4="
+          "Value": "sha256-a+cFGGU9zKrcNwtalcjvqtWl9Dr1fCx9B9jaOD8URhE="
         }
       ]
     }

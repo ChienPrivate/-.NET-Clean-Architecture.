@@ -28,6 +28,50 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
+[D:/Test/Clean Achitecture/WhiteLagoon/WhiteLagoon.Web/Views/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Test/Clean Achitecture/WhiteLagoon/WhiteLagoon.Web/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Test/Clean Achitecture/WhiteLagoon/WhiteLagoon.Web/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Test/Clean Achitecture/WhiteLagoon/WhiteLagoon.Web/Views/Amenity/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW1lbml0eVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Test/Clean Achitecture/WhiteLagoon/WhiteLagoon.Web/Views/Amenity/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW1lbml0eVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Test/Clean Achitecture/WhiteLagoon/WhiteLagoon.Web/Views/Amenity/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW1lbml0eVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Test/Clean Achitecture/WhiteLagoon/WhiteLagoon.Web/Views/Amenity/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW1lbml0eVxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Test/Clean Achitecture/WhiteLagoon/WhiteLagoon.Web/Views/Booking/BookingConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xCb29raW5nQ29uZmlybWF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Test/Clean Achitecture/WhiteLagoon/WhiteLagoon.Web/Views/Booking/BookingDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xCb29raW5nRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Test/Clean Achitecture/WhiteLagoon/WhiteLagoon.Web/Views/Booking/FinalizeBooking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xGaW5hbGl6ZUJvb2tpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Test/Clean Achitecture/WhiteLagoon/WhiteLagoon.Web/Views/Booking/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Test/Clean Achitecture/WhiteLagoon/WhiteLagoon.Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -44,12 +88,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2FkaW5nU2NyZWVuLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Test/Clean Achitecture/WhiteLagoon/WhiteLagoon.Web/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Test/Clean Achitecture/WhiteLagoon/WhiteLagoon.Web/Views/Shared/_Notification.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Test/Clean Achitecture/WhiteLagoon/WhiteLagoon.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Test/Clean Achitecture/WhiteLagoon/WhiteLagoon.Web/Views/Shared/_VillaDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WaWxsYURldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Test/Clean Achitecture/WhiteLagoon/WhiteLagoon.Web/Views/Shared/_VillaList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WaWxsYUxpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Test/Clean Achitecture/WhiteLagoon/WhiteLagoon.Web/Views/VillaNumber/Create.cshtml]

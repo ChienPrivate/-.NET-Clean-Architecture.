@@ -15,7 +15,7 @@
                 <div asp-validation-summary="ModelOnly" class="text-danger text-decoration-none"></div>
                 <div class="form-floating py-1 col-12">
                     <select asp-for="@Model.VillaNumber.VillaId" asp-items="@Model.VillaList" class="form-select border shadow">
-                        <option>Choose Villa Name</option>
+                        <option disabled selected>--Choose Villa Name--</option>
                     </select>
                     <label asp-for="@Model.VillaNumber.VillaId" class="ms-2"></label>
                     <span asp-validation-for="@Model.VillaNumber.VillaId" class="text-danger"></span>

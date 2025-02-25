@@ -18,6 +18,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\spinner.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WhiteLagoon.Web</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WhiteLagoon.Web</BasePath>
+      <RelativePath>css/spinner.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>hgythw87el</Fingerprint>
+      <Integrity>scSLZus4UeFp21JdyA4qL2+Fl4CsyDfsll4vl2VMloM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\spinner.css'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))">
       <SourceType>Package</SourceType>
       <SourceId>WhiteLagoon.Web</SourceId>
@@ -287,6 +305,204 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\slide2.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\VillaImages\b82bd393-5a50-4ec8-b25f-47f4ca08f9aa.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WhiteLagoon.Web</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WhiteLagoon.Web</BasePath>
+      <RelativePath>images/VillaImages/b82bd393-5a50-4ec8-b25f-47f4ca08f9aa.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>fu6vtkxjsb</Fingerprint>
+      <Integrity>ZxEq9fGQMOIOl0kKmF8wPUXy5axjKjC9W0qDqbLEFaE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\VillaImages\b82bd393-5a50-4ec8-b25f-47f4ca08f9aa.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\VillaImages\b9c76812-3115-4fcd-876a-7524e8f524f5.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WhiteLagoon.Web</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WhiteLagoon.Web</BasePath>
+      <RelativePath>images/VillaImages/b9c76812-3115-4fcd-876a-7524e8f524f5.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>jm1yeeq3re</Fingerprint>
+      <Integrity>u2J5xFO57oUUPcttDXgnNhAbtwoFKO9/3xor+I9Ny9I=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\VillaImages\b9c76812-3115-4fcd-876a-7524e8f524f5.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\VillaImages\d1a57645-7000-459f-bb51-9ece540e348a.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WhiteLagoon.Web</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WhiteLagoon.Web</BasePath>
+      <RelativePath>images/VillaImages/d1a57645-7000-459f-bb51-9ece540e348a.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>unvjvnayh4</Fingerprint>
+      <Integrity>9n2mvvWRDtLKMD8Gd0CHrW/9y+ZyEoVgHAV7s7KEklQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\VillaImages\d1a57645-7000-459f-bb51-9ece540e348a.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\VillaImages\d61a48bd-7a24-42be-8464-6b09272b8a50.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WhiteLagoon.Web</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WhiteLagoon.Web</BasePath>
+      <RelativePath>images/VillaImages/d61a48bd-7a24-42be-8464-6b09272b8a50.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>zvnbix0ak4</Fingerprint>
+      <Integrity>UbzY6F1OClev8Vl9XZbO/k9IGpAhDDJ4tpgJD454rzg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\VillaImages\d61a48bd-7a24-42be-8464-6b09272b8a50.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\VillaImages\d7ab591f-d08d-46d5-97f3-690945517d23.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WhiteLagoon.Web</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WhiteLagoon.Web</BasePath>
+      <RelativePath>images/VillaImages/d7ab591f-d08d-46d5-97f3-690945517d23.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>q3u3henpar</Fingerprint>
+      <Integrity>JhQARWtnXE1sMq4zv6c8Nwb20Js5y6+7BuI4wqEVXHI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\VillaImages\d7ab591f-d08d-46d5-97f3-690945517d23.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\VillaImages\dea8acc6-8f84-4a98-9628-d302cace3fdd.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WhiteLagoon.Web</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WhiteLagoon.Web</BasePath>
+      <RelativePath>images/VillaImages/dea8acc6-8f84-4a98-9628-d302cace3fdd.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>lz6sxe9qoj</Fingerprint>
+      <Integrity>Ydt0tQVqNIR2vzsS83EcdbJZpmm7Q8AXjonk4SvW3eA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\VillaImages\dea8acc6-8f84-4a98-9628-d302cace3fdd.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\VillaImages\ec233b06-c4f3-486b-a06e-71bf2193f9fe.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WhiteLagoon.Web</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WhiteLagoon.Web</BasePath>
+      <RelativePath>images/VillaImages/ec233b06-c4f3-486b-a06e-71bf2193f9fe.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>r6zl32u263</Fingerprint>
+      <Integrity>YzAEc4GFZqJgHi4RjHifQFxH7vt4/8nGNTwF7BIfN+U=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\VillaImages\ec233b06-c4f3-486b-a06e-71bf2193f9fe.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jquery-ajax-unobtrusive\jquery.unobtrusive-ajax.js'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WhiteLagoon.Web</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WhiteLagoon.Web</BasePath>
+      <RelativePath>jquery-ajax-unobtrusive/jquery.unobtrusive-ajax.js</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>vs3qwh9hx3</Fingerprint>
+      <Integrity>v2nySZafnswY87um3ymbg7p9f766IQspC5oqaqZVX2c=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jquery-ajax-unobtrusive\jquery.unobtrusive-ajax.js'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jquery-ajax-unobtrusive\jquery.unobtrusive-ajax.min.js'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WhiteLagoon.Web</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WhiteLagoon.Web</BasePath>
+      <RelativePath>jquery-ajax-unobtrusive/jquery.unobtrusive-ajax.min.js</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>8ve2wm9mbw</Fingerprint>
+      <Integrity>PAC000yuHt78nszJ2RO0OiDMu/uLzPLRlYTk8J3AO10=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jquery-ajax-unobtrusive\jquery.unobtrusive-ajax.min.js'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\booking.js'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WhiteLagoon.Web</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WhiteLagoon.Web</BasePath>
+      <RelativePath>js/booking.js</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>fq74plnj23</Fingerprint>
+      <Integrity>2aK1GmJmRGCJv5jEb/iGnUP6wKRe+wHlstInUNDmcZo=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\booking.js'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\jquery.unobtrusive-ajax.min.js'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WhiteLagoon.Web</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WhiteLagoon.Web</BasePath>
+      <RelativePath>js/jquery.unobtrusive-ajax.min.js</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>8ve2wm9mbw</Fingerprint>
+      <Integrity>PAC000yuHt78nszJ2RO0OiDMu/uLzPLRlYTk8J3AO10=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\jquery.unobtrusive-ajax.min.js'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))">
       <SourceType>Package</SourceType>
@@ -1332,23 +1548,23 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\LICENSE.txt'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WhiteLagoon.Web.m6zhdov9et.bundle.scp.css'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WhiteLagoon.Web.l0w69ykmmu.bundle.scp.css'))">
       <SourceType>Package</SourceType>
       <SourceId>WhiteLagoon.Web</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WhiteLagoon.Web</BasePath>
-      <RelativePath>WhiteLagoon.Web.m6zhdov9et.bundle.scp.css</RelativePath>
+      <RelativePath>WhiteLagoon.Web.l0w69ykmmu.bundle.scp.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>Reference</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ProjectBundle</AssetTraitValue>
-      <Fingerprint>m6zhdov9et</Fingerprint>
-      <Integrity>Xon+aokNoVBU3GE20Y6idNoXRQEv/luPmYopFcMUYh4=</Integrity>
+      <Fingerprint>l0w69ykmmu</Fingerprint>
+      <Integrity>a+cFGGU9zKrcNwtalcjvqtWl9Dr1fCx9B9jaOD8URhE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WhiteLagoon.Web.m6zhdov9et.bundle.scp.css'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WhiteLagoon.Web.l0w69ykmmu.bundle.scp.css'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>
